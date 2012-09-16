@@ -38,6 +38,8 @@
     <parameter key="mailer_password">null</parameter>
     <parameter key="locale">en</parameter>
     <parameter key="secret">ThisTokenIsNotSoSecretChangeIt</parameter>
+    <parameter key="facebookappid">166783536688070</parameter>
+    <parameter key="facebookappsecret">76e62934b8423cf146ed9d4242f704a4</parameter>
     <parameter key="controller_resolver.class">Symfony\Bundle\FrameworkBundle\Controller\ControllerResolver</parameter>
     <parameter key="controller_name_converter.class">Symfony\Bundle\FrameworkBundle\Controller\ControllerNameParser</parameter>
     <parameter key="response_listener.class">Symfony\Component\HttpKernel\EventListener\ResponseListener</parameter>

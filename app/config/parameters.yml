@@ -13,3 +13,6 @@ parameters:
 
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
+
+    facebookAppId:  166783536688070
+    facebookAppSecret:  76e62934b8423cf146ed9d4242f704a4

@@ -18,7 +18,7 @@ class DemoController extends Controller
      */
     public function indexAction()
     {
-        return array();
+        return array('facebookAppId' => $this->container->getParameter('facebookAppId'));
     }
 
     /**

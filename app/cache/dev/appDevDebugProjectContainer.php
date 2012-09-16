@@ -2903,6 +2903,8 @@ class appDevDebugProjectContainer extends Container
             'mailer_password' => NULL,
             'locale' => 'en',
             'secret' => 'ThisTokenIsNotSoSecretChangeIt',
+            'facebookappid' => 166783536688070,
+            'facebookappsecret' => '76e62934b8423cf146ed9d4242f704a4',
             'controller_resolver.class' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\ControllerResolver',
             'controller_name_converter.class' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\ControllerNameParser',
             'response_listener.class' => 'Symfony\\Component\\HttpKernel\\EventListener\\ResponseListener',
